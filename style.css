@@ -390,6 +390,7 @@ nav .fa{
 }
 .about-col img{
     width: 80%;
+    border-radius: 10%;
 }
 .about-col h1{
     padding-top: 0;
