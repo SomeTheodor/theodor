@@ -423,6 +423,10 @@ nav .fa{
     margin: auto;
     
 }
+.contact-col img{
+    width: 90%;
+    border-radius: 10%;
+}
 .contact-us h1{
     width: 100%;
     text-align: center;
@@ -432,7 +436,7 @@ nav .fa{
     color: #ffffff;
   }
 .contact-col{
-    flex-basis: 48%;
+    flex-basis: 50%;
     margin-bottom: 30px;
 }
 .contact-col div{
